@@ -1,3 +1,6 @@
 [submodule "glfw"]
 	path = glfw
 	url = https://github.com/glfw/glfw
+[submodule "quickjspp"]
+	path = quickjspp
+	url = https://github.com/ftk/quickjspp.git
