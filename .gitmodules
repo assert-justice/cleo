@@ -7,3 +7,4 @@
 [submodule "quickjspp"]
 	path = quickjspp
 	url = https://github.com/ftk/quickjspp.git
+	branch = master
