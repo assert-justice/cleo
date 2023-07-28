@@ -1,3 +1,3 @@
 # Cleo
 
-Fantasy console.
+Fantasy console. Uses JavaScript for scripting.
